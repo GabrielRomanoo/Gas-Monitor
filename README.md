@@ -7,6 +7,6 @@
 - Marcus Souza
 - Willy Pestana
 
-*NOTA: Documentação possui a documentação necessária para todos os arquivos.*
+*NOTA: O arquivo `Documentação.docx` possui a documentação necessária para todos os arquivos.*
 	
 `ALTER AUTHORIZATION ON DATABASE:: DBGas TO [NewLogin]`
